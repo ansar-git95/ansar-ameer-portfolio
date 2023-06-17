@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #149ddd;
+  background: #040b14;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -182,7 +182,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 24px;
   transition: all 0.4s;
   outline: none !important;
-  background-color: #149ddd;
+  background-color: #040b14;
   color: #fff;
   width: 40px;
   height: 40px;
@@ -620,7 +620,7 @@ section {
   justify-content: center;
   width: 54px;
   height: 54px;
-  background: #149ddd;
+  background: #040b14;
   border-radius: 50%;
   transition: 0.5s;
   border: 1px solid #149ddd;
