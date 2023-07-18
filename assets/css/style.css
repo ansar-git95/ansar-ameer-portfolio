@@ -293,12 +293,18 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #149ddd;
+  background: #040b14;
   bottom: 0;
   left: 0;
 }
 .section-title p {
   margin-bottom: 0;
+}
+.section-title-A{
+  text-decoration: underline;
+  color: #040b14;
+  padding: 15px;
+  font-weight: 700;
 }
 
 /*--------------------------------------------------------------
@@ -344,7 +350,7 @@ section {
 .facts .count-box i {
   display: block;
   font-size: 44px;
-  color: #149ddd;
+  color: #040b14;
   float: left;
   line-height: 0;
 }
@@ -406,7 +412,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #149ddd;
+  background-color: #040b14;
 }
 
 /*--------------------------------------------------------------
